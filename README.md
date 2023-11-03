@@ -1,5 +1,7 @@
 # Business-Insights-360
 
+AtliQ Hardware is a consumer electronics company expanding rapidly but is not able to compete with other companies using data as most of their report still exists in Excel. My goal is to implement an advanced analytics solution using Power BI that will enable the company to get insights and make in
+
 "In this transformative project, I've embarked on a mission to craft a single, all-encompassing report that serves as the North Star for sales, marketing, finance, and the executive team. The goal is to empower stakeholders across these domains with a unified, insightful resource.
 
 Three pillars underpin this endeavor: 
